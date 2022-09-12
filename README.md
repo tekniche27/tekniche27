@@ -5,7 +5,7 @@
 
 Welcome to my new github account.
 
-I am a fullstack software engineer. 
+I am a fullstack software engineer and familiar with scrum agile technology.
 
 - 🌱 I’m currently learning:
   - _Solidity, Web 3.0, NFT, Machine Learning and Metaverse._
