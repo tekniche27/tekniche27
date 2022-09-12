@@ -5,7 +5,7 @@
 
 Welcome to my new github account.
 
-I am a simple and novice software developer. 
+I am a fullstack software engineer. 
 
 - 🌱 I’m currently learning:
   - _Solidity, Web 3.0, NFT, Machine Learning and Metaverse._
